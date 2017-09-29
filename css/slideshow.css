@@ -16,8 +16,10 @@
 .slideshow__control__icon--next{}
 
 
-.slideshow_gallery{}
-.slideshow_gallery_image{}
-.slideshow_gallery_image__link{}
-.slideshow_gallery_image__img{}
-.slideshow_gallery_image__caption{}
+.slideshow__gallery{}
+.slideshow__gallery__image{}
+.slideshow__gallery__image__link{}
+.slideshow__gallery__image__img{}
+.slideshow__gallery__image__caption{}
+
+.slideshow__gallery__placeholder{}
